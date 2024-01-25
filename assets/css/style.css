@@ -259,5 +259,5 @@ div{
     justify-content: flex-end;
     align-items: center;
     flex-wrap: wrap-reverse;
+    border-bottom: 0px;
 }
-
